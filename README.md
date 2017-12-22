@@ -15,5 +15,5 @@ or in a different semester, without the express approval of all instructors is s
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for
 the project and course.
 Project Description
-In this Project I will examine the Health Care stocks universe that trade on NASDAQ to identify the relevant pairs that would be best used for the Pairs trading Strategy.
-The goal of this code is to scarp the data and slice the universe of stocks based on the availability and quality of daily trading data. Then, use statistical analysis to systematically find the best pair of stocks that exhibit the necessary attributes. Based on the results of this exercise, closely examine the behavior of the select pair and give a recommendation and rationale for using it as a trading strategy.
+In this Project I will examine the Health Care stocks universe that trade on NASDAQ to identify the relevant pairs that would be best used for the market-neutral (beta-hedged) Pairs Trading strategy. The goal of this code is to scarp the data and slice the universe of the stocks based on the availability and quality of daily trading data. Then, statistical analysis or correlations will be used to systematically find the best pair of stocks that exhibit the necessary attributes.
+Based on the results of this exercise it would be possible to compare the returns on this strategy to the returns on the other possible portfolios that include the selected stocks. This way, the profitability of this trade over the sample period of time will be assessed.
